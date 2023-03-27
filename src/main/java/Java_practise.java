@@ -1,5 +1,3 @@
-package api;
-
 import java.util.ArrayList;
 
 public class Java_practise {
